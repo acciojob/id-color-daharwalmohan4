@@ -6,11 +6,11 @@
 }
 #red{
 	background-color: red;
-	backgroung-width:1px;
+	border-width: 1px;
 	border-color: black;
 }
 #green{
 	background-color: green;
-	backgroung-width: 1px;
+	border-style:sold;
 	border-color: yellow;
 }
